@@ -1,4 +1,4 @@
 # Диаграмма классов
 
 
-![diagram](/assets/Лаб5(2).png)
+![diagram](/assets/Лаб5(3).png)
